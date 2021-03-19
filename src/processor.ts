@@ -122,7 +122,7 @@
 			console.log("Iteracoes2 dinâmico -> " + this.it2);
 		}
 
-		public distanciaRecursivo(texto:string, texto2: string, i: number, j: number) {
+		public distanciaRecursivo(texto:string, texto2: string, i: number, j: number): any {
 
 			let s,inn,r,min;
 
